@@ -14,7 +14,7 @@ The purpose of this project is to perform exploratory analysis of Pyber Ride Sha
 
 ## Results 
 ![Pic_1](https://github.com/fouadZiaa/Pyber-Challenge/blob/42eb478c6b5c332749ae9830be94981ed2bc1c81/Resources/Screen%20Shot%202022-07-18%20at%2010.26.36%20AM.png)
-![Pic_2](
+![Pic_2](https://github.com/fouadZiaa/Pyber-Challenge/blob/6abd7e054b6379a54dbe36b2df39633204b44ea4/Resources/Pyber_fare_summary.png)
 By reviewing the summary we can see that there are several key findings including: 
 - Urban cities have the highest ridership demand while rural cities have the least.
 - Urban cities have 4x more drivers than suburban cities.
